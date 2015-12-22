@@ -1,0 +1,1 @@
+A proof-of-concept implementation of combinators for `play.api.mvc.QueryStringBindable`, using the `play.api.libs.functional` package and existing instances of `QueryStringBindable` in Play. This is very much a work-in-progress and may very well never be finished.
